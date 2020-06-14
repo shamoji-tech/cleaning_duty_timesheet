@@ -1,0 +1,2 @@
+# cleaning_duty_timesheet
+毎週のお掃除シフトを通知するbot
