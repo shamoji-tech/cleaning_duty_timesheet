@@ -1,0 +1,8 @@
+name: SlackHandler Build
+on:
+    push:
+        branches: ['master']
+    pull_request:
+        branches: ['master']
+path:
+    
