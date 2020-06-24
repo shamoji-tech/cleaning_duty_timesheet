@@ -1,4 +1,0 @@
-name: AppScriptCD
-on: [push, pull_request]
-paths:
-    - gas/*
